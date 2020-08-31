@@ -10,7 +10,12 @@
 大家可以按自己的平台自己下载或自行编译。  
 * `Mac` [🔗](https://github.com/Sanbolee/GithubIps/releases/download/v1.0/GithubIps_mac)
 * `Linux` [🔗](https://github.com/Sanbolee/GithubIps/releases/download/v1.0/GithubIps_linux)
-* `Windows` [🔗](https://github.com/Sanbolee/GithubIps/releases/download/v1.0/GithubIps_windows.exe)
+* `Windows` [🔗](https://github.com/Sanbolee/GithubIps/releases/download/v1.0/GithubIps_windows.exe)  
+
+Or Docker获取
+```bash
+docker pull docker.pkg.github.com/sanbolee/githubips/githubips:v1.0
+```
 
 ## 运行  
 Mac
