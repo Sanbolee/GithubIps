@@ -30,6 +30,7 @@ func main() {
 		"github.com":                     "https://github.com.ipaddress.com",
 		"gist.github.com":                "https://github.com.ipaddress.com/gist.github.com",
 		"assets-cdn.github.com":          "https://github.com.ipaddress.com/assets-cdn.github.com",
+		"spotlights-feed.github.com":     "https://github.com.ipaddress.com/spotlights-feed.github.com",
 		"raw.githubusercontent.com":      "https://githubusercontent.com.ipaddress.com/raw.githubusercontent.com",
 		"gist.githubusercontent.com":     "https://githubusercontent.com.ipaddress.com/gist.githubusercontent.com",
 		"cloud.githubusercontent.com":    "https://githubusercontent.com.ipaddress.com/cloud.githubusercontent.com",

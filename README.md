@@ -36,22 +36,23 @@ Windows
 ## 结果
 ```bash
 正在输出结果，请稍等：
-185.199.108.153   assets-cdn.github.com
-199.232.68.133   avatars2.githubusercontent.com
 199.232.68.133   avatars1.githubusercontent.com
-140.82.112.4   gist.github.com
-140.82.112.4   github.com
-199.232.68.133   avatars4.githubusercontent.com
+199.232.68.133   raw.githubusercontent.com
 199.232.68.133   avatars3.githubusercontent.com
 199.232.68.133   avatars7.githubusercontent.com
-199.232.68.133   avatars0.githubusercontent.com
-199.232.68.133   avatars6.githubusercontent.com
+199.232.68.133   avatars2.githubusercontent.com
 199.232.68.133   camo.githubusercontent.com
 199.232.68.133   avatars5.githubusercontent.com
+185.199.108.153   spotlights-feed.github.com
+185.199.108.153   assets-cdn.github.com
+140.82.112.4   gist.github.com
+199.232.68.133   avatars4.githubusercontent.com
+199.232.68.133   avatars0.githubusercontent.com
 199.232.68.133   avatars8.githubusercontent.com
-199.232.68.133   raw.githubusercontent.com
+199.232.68.133   avatars6.githubusercontent.com
 199.232.68.133   gist.githubusercontent.com
 199.232.68.133   cloud.githubusercontent.com
+140.82.114.4   github.com
 输出结果完毕，请复制粘贴到hosts文件。
 Mac系统和Linux系统hosts文件位置：/etc/hosts
 Win系统hosts文件位置：c:/windows/system32/drivers/etc/hosts
