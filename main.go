@@ -35,6 +35,7 @@ func main() {
 		"gist.githubusercontent.com":     "https://githubusercontent.com.ipaddress.com/gist.githubusercontent.com",
 		"cloud.githubusercontent.com":    "https://githubusercontent.com.ipaddress.com/cloud.githubusercontent.com",
 		"camo.githubusercontent.com":     "https://githubusercontent.com.ipaddress.com/camo.githubusercontent.com",
+		"avatars.githubusercontent.com":  "https://githubusercontent.com.ipaddress.com/avatars0.githubusercontent.com",
 		"avatars0.githubusercontent.com": "https://githubusercontent.com.ipaddress.com/avatars0.githubusercontent.com",
 		"avatars1.githubusercontent.com": "https://githubusercontent.com.ipaddress.com/avatars1.githubusercontent.com",
 		"avatars2.githubusercontent.com": "https://githubusercontent.com.ipaddress.com/avatars2.githubusercontent.com",
